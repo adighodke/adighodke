@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adighodke
 - 👀 I’m interested in development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning angular 13.
+
 
 
 <!---
